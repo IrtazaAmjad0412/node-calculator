@@ -32,5 +32,3 @@ const operationSymbol = checkOperationInput();
 const numbers = checkNumberInput();
 
 resultForOperation(operationSymbol, numbers);
-
-// checking git commands
